@@ -1,0 +1,1 @@
+kustomization.yml file generated using .gitlab-ci.yml
